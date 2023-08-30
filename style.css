@@ -104,7 +104,7 @@ h1 {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    /* box-sizing: border-box; */
+    padding: 0px 10px;
 }
 
 .container h2 {
@@ -133,7 +133,7 @@ h1 {
 
 .tab1 {
     display: flex;
-    justify-content: space-between;
+    
 }
 
 .grid {
@@ -178,18 +178,23 @@ h1 {
 
     }
 
-   h2{
-    font-size: x-large;
-   }
-   h3{
-    font-size: larger;
-   }
-li{
-    font-size: larger;
+    h2 {
+        font-size: x-large;
+    }
+
+    h3 {
+        font-size: larger;
+    }
+
+    li {
+        font-size: larger;
+    }
+
+    li a {
+        font-size: larger;
+    }
+
+    p {
+        font-size: medium;
+    }
 }
-li a{
-    font-size: larger;
-}
-p{
-    font-size: medium;
-}}

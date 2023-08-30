@@ -13,6 +13,7 @@ header {
 
 .content {
     display: flex;
+    align-items: flex-end;
 
 }
 
@@ -134,7 +135,11 @@ h1 {
 
 .tab1 {
     display: flex;
+    align-items: flex-end;
     
+}
+.tab1 p{
+    padding-right: 5px;
 }
 
 .grid {

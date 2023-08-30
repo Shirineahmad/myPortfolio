@@ -89,6 +89,7 @@ nav .ul_header_section_2 li {
     width: 156px;
     height: 156px;
     padding: 25px;
+    object-fit: cover;
 }
 
 h1 h2 h3 p {

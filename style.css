@@ -141,6 +141,9 @@ h1 {
 .tab1 p{
     padding-right: 5px;
 }
+.em{
+    color: #808080;
+}
 
 .grid {
     display: inline-grid;

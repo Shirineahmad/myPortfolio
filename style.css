@@ -104,6 +104,7 @@ h1 {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    /* box-sizing: border-box; */
 }
 
 .container h2 {
@@ -125,6 +126,11 @@ h1 {
     padding: 7px;
 }
 
+.containe2 h3 a {
+    text-decoration: none;
+    color: #808080;
+}
+
 .tab1 {
     display: flex;
     justify-content: space-between;
@@ -144,6 +150,7 @@ h1 {
     body {
         flex-direction: column;
         font-size: 14px;
+        box-sizing: border-box;
 
     }
 
@@ -171,4 +178,18 @@ h1 {
 
     }
 
+   h2{
+    font-size: x-large;
+   }
+   h3{
+    font-size: larger;
+   }
+li{
+    font-size: larger;
 }
+li a{
+    font-size: larger;
+}
+p{
+    font-size: medium;
+}}
